@@ -1,0 +1,7 @@
+id=xirenamer
+name=Xposed Installer Renamer
+version=v1
+versionCode=1
+author=HeyItsJono (CarteNoir)
+description=Attempts to hide the Xposed Installer package folder from apps that scan /data/data looking for it. 
+minMagisk=1500
